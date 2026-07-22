@@ -1,0 +1,6 @@
+{
+  "name": "VortexSentinel - Real-Time Enterprise Security & Threat Defense",
+  "description": "Protección antivirus en tiempo real, aislamiento remoto de red, bloqueador de IP, auditoría SIEM, logs cifrados y notificaciones instantáneas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
